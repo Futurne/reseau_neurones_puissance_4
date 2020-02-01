@@ -16,4 +16,4 @@ Finalement, les données ne sont pas de grandes qualités donc on a pas réellem
   - https://www.youtube.com/watch?v=tIeHLnjs5U8
   
 # Un mot sur la génération des données d'entraînement
-Pour généré le dataset, on a utilisé l'IA de mon ami. Celle-ci était une IA assez basique (mais très efficace), qui regarde tous les coups possibles, avec 3 coups d'avance, et évalue le meilleur des coups. Pour généré une donnée, on mettait l'IA dans une situation de jeu, et on notait son coup. Pour aller plus loin, on lui donnait quelques situations initiales, puis on la faisait jouer contre elle-même et on enregistrait tous les coups.
+Pour générer le dataset, on a utilisé l'IA de mon ami. Celle-ci était une IA assez basique (mais très efficace), qui regarde tous les coups possibles, avec 3 coups d'avance, et évalue le meilleur des coups. Pour générer une donnée, on mettait l'IA dans une situation de jeu, et on notait son coup. Pour aller plus loin, on lui donnait quelques situations initiales, puis on la faisait jouer contre elle-même et on enregistrait tous les coups.
